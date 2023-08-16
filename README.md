@@ -7,7 +7,7 @@
 >  - sudo apt install conky-manager2
 
 
-Detailed article [here]("https://ubuntuhandbook.org/index.php/2020/07/install-conky-manager-ubuntu-20-04-lts/")
+Detailed article [here](https://ubuntuhandbook.org/index.php/2020/07/install-conky-manager-ubuntu-20-04-lts/)
 
 
 
@@ -15,7 +15,7 @@ Detailed article [here]("https://ubuntuhandbook.org/index.php/2020/07/install-co
 
 > - [pling link](https://www.pling.com/p/1933562)
 >
-> - detailed documentation from creater [here]("https://github.com/closebox73/applying-theme")
+> - detailed documentation from creater [here](https://github.com/closebox73/applying-theme)
 
 --- 
 
@@ -32,9 +32,9 @@ Detailed article [here]("https://ubuntuhandbook.org/index.php/2020/07/install-co
 
 # Spicetif
 
-> -Official Repo [here]("https://github.com/spicetify/spicetify-themes")
+> -Official Repo [here](https://github.com/spicetify/spicetify-themes)
 >
-> my theme - [here]("https://github.com/spicetify/spicetify-themes/tree/master/Dribbblish")
+> my theme - [here](https://github.com/spicetify/spicetify-themes/tree/master/Dribbblish)
 
 
 ---
