@@ -13,7 +13,7 @@ Detailed article [here]("https://ubuntuhandbook.org/index.php/2020/07/install-co
 
 # CONKY THEME 
 
-> - [pling link]("https://www.pling.com/p/1933562")
+> - [pling link](https://www.pling.com/p/1933562)
 >
 > - detailed documentation from creater [here]("https://github.com/closebox73/applying-theme")
 
